@@ -29,6 +29,7 @@ a:hover {
 body {
   margin: 0;
   justify-items: center;
+   background-color: grey;
 }
 
 h1 {
